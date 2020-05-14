@@ -1,0 +1,1 @@
+hello i am mohamed sayed hussien abdelrazek this is huffman algorithm implemented in python you have to put your text to be combressed.
